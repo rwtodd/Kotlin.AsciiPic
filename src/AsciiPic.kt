@@ -1,3 +1,5 @@
+package rwt.asciipic
+
 import java.awt.Color
 import java.awt.RenderingHints
 import java.awt.image.BufferedImage
