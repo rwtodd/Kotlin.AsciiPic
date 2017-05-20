@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="AsciiPic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AsciiPic_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AsciiPic.jar">
+        <element id="module-output" name="AsciiPic" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
